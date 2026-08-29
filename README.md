@@ -1,10 +1,10 @@
 # ORCID Manual Entry — OMP plugin
 
 [![OMP](https://img.shields.io/badge/OMP-3.5-brightgreen)](https://pkp.sfu.ca/omp/)
-[![Version](https://img.shields.io/badge/version-1.0.2.0-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-1.0.2.1-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OMP 3.5](https://github.com/OJSBR/orcidManualEntryOmp/releases/download/1.0.2.0-omp3.5/orcidManualEntry-1.0.2.0-omp3.5.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OMP 3.5](https://github.com/OJSBR/orcidManualEntryOmp/releases/download/1.0.2.1/orcidManualEntry-1.0.2.1.tar.gz) — or browse all [Releases](../../releases).
 
 A generic plugin for **Open Monograph Press (OMP)** that restores a **typeable (manual)
 ORCID field** in the author/contributor form — the behaviour from older OMP versions — for
@@ -24,7 +24,7 @@ presses where **ORCID authentication (OAuth) is not configured**.
 
 | OMP version | Branch | Plugin release |
 |-------------|--------|----------------|
-| OMP 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.0.2.0 |
+| OMP 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.0.2.1 |
 
 **Looking for the OJS edition?** It lives in its own repository,
 [OJSBR/orcidManualEntry](https://github.com/OJSBR/orcidManualEntry). This repository is the same plugin with the
