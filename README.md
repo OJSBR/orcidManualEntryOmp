@@ -1,3 +1,17 @@
+> ## ⚠️ This repository is archived
+>
+> Since **1.1.3.0** the OJS and the OMP editions of this plugin are the same code, in
+> **[OJSBR/orcidManualEntry](https://github.com/OJSBR/orcidManualEntry)**. One
+> package installs on OJS 3.5 and on OMP 3.5. Get new versions there; the releases below stay
+> available for older installations.
+>
+> ## ⚠️ Este repositório está arquivado
+>
+> A partir da **1.1.3.0**, as edições OJS e OMP deste plugin são o mesmo código, em
+> **[OJSBR/orcidManualEntry](https://github.com/OJSBR/orcidManualEntry)**. Um
+> pacote só instala no OJS 3.5 e no OMP 3.5. Baixe as versões novas lá; as releases abaixo
+> continuam disponíveis para instalações antigas.
+
 # ORCID Manual Entry — OMP plugin
 
 [![OMP](https://img.shields.io/badge/OMP-3.5-brightgreen)](https://pkp.sfu.ca/omp/)
